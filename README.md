@@ -2,7 +2,7 @@
 
 When working with React, we work with functions and compositions
 
-Lets explore vatious techniques in a toggle button sample:
+Lets explore various techniques in a toggle button sample:
 
 * Compound Components
 * React Context & Context Providers
